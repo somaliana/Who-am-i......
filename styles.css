@@ -1,0 +1,15 @@
+li:first-child {
+    background: url('hero_spritesheet.png') no-repeat -9px -17px;
+	width: 57px;
+	height: 66px;
+}
+li:nth-child(2) {
+    background: url('hero_spritesheet.png') no-repeat -90px -17px;
+	width: 59px;
+	height: 66px;
+}
+li:last-child {
+    background: url('hero_spritesheet.png') no-repeat -409px -203px;
+	width: 59px;
+	height: 66px;
+}
